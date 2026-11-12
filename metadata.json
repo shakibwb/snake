@@ -1,0 +1,6 @@
+{
+  "name": "SNAKE PRO – Ultimate Edition",
+  "description": "Premium arcade snake game with neon visual effects, multiple difficulty modes, power-ups, customizable skins, procedural audio, achievements, and local high-score leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
